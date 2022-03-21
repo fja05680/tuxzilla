@@ -1,0 +1,4 @@
+poky/
+!conf/poky
+meta-openembedded/
+meta-raspberrypi/

@@ -30,9 +30,7 @@ Note: git pull fetches updates for all local branches, which track remote branch
 (12) copy site.conf from template in poky/meta-poky/conf/site.conf.sample to poky (will manually copy into each build/conf dir).
 (13) Update site.conf to point to shared downloads and sstate-cache
 (14) bitbake core-image-sato
-(15) Need to do step (12) again because of build/conf update.
-(16) bitbake core-image-sato)
-(17) to build rasberry pi, need more layers, specifically meta-openembedded and meta-rasberrypi
+(15) To build rasberry pi, need more layers, specifically meta-openembedded and meta-rasberrypi
 
 
 
